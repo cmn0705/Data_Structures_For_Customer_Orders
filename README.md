@@ -47,6 +47,13 @@ These are screenshots of the results:
 
 **Summary:**
 
+| Syntax      | Description | Description | Description |
+| ----------- | ----------- | ----------- | ----------- |
+| Header      | Title       | Description | Description |
+| Paragraph   | Text        | Description | Description |
+| Paragraph   | Text        | Description | Description |
+
+
 |**ArrayList (Projected)** |
 | :-: |
 | |**Memory used (Mb)** |**Search by Order 1000,000 times (Ms)** |**Search by State 1000 times (Ms)** |
