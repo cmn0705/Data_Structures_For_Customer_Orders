@@ -3,12 +3,12 @@
 **Compare the effectiveness of differrent data structures**
 
 Input file: pjData.csv
-<br>
+
 Assumption:The # of records in the input file is unknown
 
 Listed below are 2 sample lines:
-* 3538507,Ocekosi,NJ,27141,271.39,12/20/1985,aleaz@vabcuz.fk
-* 44803634,Lusmeja,MA,23940,4048.93,02/06/1927,uvjuf@fujitifuc.ws
+*3538507,Ocekosi,NJ,27141,271.39,12/20/1985,aleaz@vabcuz.fk*
+*44803634,Lusmeja,MA,23940,4048.93,02/06/1927,uvjuf@fujitifuc.ws*
 
 Each line consists of the following 7 fields, separated by commas:
 * Order#
@@ -24,6 +24,7 @@ The required functions by the implemented program are:
 2. Retrieve records by State
 
 Develope different solutions and compare them in term of CPU time and memory usage
+
 ---
 
 **Implementation**
