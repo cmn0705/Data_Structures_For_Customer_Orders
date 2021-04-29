@@ -27,19 +27,6 @@ Develope different solutions and compare them in term of CPU time and memory usa
 - - -
 
 **Implementation**
-I have solved the problem with the following 3 structures:
--	ArrayList
--	Binary Tree
--	HashMap
-Please see the attached Java files for details
-To test the programs, I have run the solutions with HashMap and Binary Tree to search by Order #265566 for 1000,000 times, and search by State “MO” 1000 times.
-The solution with ArrayList, due to too long run time, I have let it search 1000 times by Order and 100 times by State and projected up to compare with other solutions.
-These are screenshots of the results:
-[]()
-[]()
-[]()
-
-**Implementation**
 
 I have solved the problem with the following 3 structures:
 
@@ -62,8 +49,8 @@ These are screenshots of the results:
 
 |**ArrayList (Projected)** |
 | :-: |
-| |` `**Memory used (Mb)** |` `**Search by Order 1000,000 times (Ms)** |` `**Search by State 1000 times (Ms)** |
-|` `1st |`                            `116,756 |`                                                            `4,269,000 |`                                                        `11,550 |
+| |**Memory used (Mb)** |**Search by Order 1000,000 times (Ms)** |**Search by State 1000 times (Ms)** |
+|1st |116,756 |4,269,000 |11,550 |
 |` `2nd |`                            `113,683 |`                                                            `4,368,000 |`                                                        `11,270 |
 |` `3rd |`                            `119,827 |`                                                            `4,154,000 |`                                                        `11,290 |
 |` `4rd |`                            `117,697 |`                                                            `4,152,000 |`                                                        `11,260 |
