@@ -41,9 +41,9 @@ To test the programs, I have run the solutions with HashMap and Binary Tree to s
 The solution with ArrayList, due to too long run time, I have let it search 1000 times by Order and 100 times by State and projected up to compare with other solutions.
 
 These are screenshots of the results:
-[]()
-[]()
-[]()
+[](https://github.com/cmn0705/Data_Structures_For_Customer_Orders/blob/master/img/image001.png)
+[](https://github.com/cmn0705/Data_Structures_For_Customer_Orders/blob/master/img/image003.png)
+[](https://github.com/cmn0705/Data_Structures_For_Customer_Orders/blob/master/img/image005.png)
 
 **Summary:**
 
