@@ -24,7 +24,7 @@ The required functions by the implemented program are:
 2. Retrieve records by State
 
 Develope different solutions and compare them in term of CPU time and memory usage
----
+- - -
 
 **Implementation**
 I have solved the problem with the following 3 structures:
