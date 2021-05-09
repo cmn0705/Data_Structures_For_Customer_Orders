@@ -1,7 +1,18 @@
-*Tags: java*
-
-**Compare the effectiveness of differrent data structures**
-
+*Tags: Java, Data Structures, Object Oriented Programing*<br>
+**Description:** In this Java project, I developed 3 different data structures for a customer order database: Array, Binary Tree, Hash Map. In each solution, I implemented retrieve functions (by Order Number or State) in order to compare their effectiveness in term of CPU time and memory usage.<br>
+**Tools:** *Java*<br>
+**Java files**:
+- Order.java
+    - *(Order object)*
+- OrderBTree.java
+    - *(Binary Tree object that can be called to initiate new tree, add new node or search)*
+- NguyenPjArrayList.java 
+    - *(Build and implement Array List)*
+- NguyenPjBtree.java
+    - *(Build and implement Binary Tree)*
+- NguyenPjHashMap.java
+    - *(Build and implement Hash Map)*
+- - -
 Input file: pjData.csv
 
 Assumption:The # of records in the input file is unknown
@@ -18,23 +29,8 @@ Each line consists of the following 7 fields, separated by commas:
 * Amount
 * Date
 * Email
-
-The required functions by the implemented program are:
-1. Retrieve records by Order
-2. Retrieve records by State
-
-Develope different solutions and compare them in term of CPU time and memory usage
 - - -
-
 **Implementation**
-
-I have solved the problem with the following 3 structures:
-
-- ArrayList
-- Binary Tree
-- HashMap
-
-Please see the attached Java files for details
 
 To test the programs, I have run the solutions with HashMap and Binary Tree to search by Order #265566 for 1000,000 times, and search by State “MO” 1000 times
 
@@ -46,7 +42,6 @@ These are screenshots of the results:
 ![](https://github.com/cmn0705/Data_Structures_For_Customer_Orders/blob/master/img/image005.png)
 
 **Summary:**
-
 
 | **ArrayList (Projected)**|**Memory used (Mb)** |**Search by Order 1000,000 times (Ms)** |**Search by State 1000 times (Ms)** |
 | ----------- | ----------- | ----------- | ----------- |
