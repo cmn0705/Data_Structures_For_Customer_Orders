@@ -1,6 +1,9 @@
 *Tags: Java, Data Structures, Object Oriented Programing*<br>
-**Description:** In this Java project, I developed 3 different data structures for a customer order database: Array, Binary Tree, Hash Map. In each solution, I implemented retrieve functions (by Order Number or State) in order to compare their effectiveness in term of CPU time and memory usage.<br>
-**Tools:** *Java*<br>
+**Description:**
+- Developed Java codes to build 3 different data structures for a customer order database: Array, Binary Tree, Hash Map. 
+- Implemented retrieve functions (by Order Number or State) in each solution in order to compare their effectiveness in term of CPU time and memory usage.
+- Tools used: *Java*
+
 **Java files**:
 - Order.java
     - *(Order object)*
